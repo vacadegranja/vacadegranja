@@ -1,4 +1,4 @@
-# Vaca
+# Vaca 🐄
 ## Sobre mi
 ### Me llamo Sergio Abraham Alquicira Arroyo y en algunas redes o en los videojuegos me conocen como vaca, me gustaría mejorar en el código y el 3D, además me gusta la ilustración y la animación.
 
